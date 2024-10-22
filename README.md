@@ -1,14 +1,12 @@
 # POWER-BI-Nifty-50-Last-5-yrs-Returns-
 
-# NIFTY 50 Last 10 Years Data Analysis
-
 # Project Overview
-This project focuses on analyzing the performance of the **NIFTY 50** index over the past 10 years using data visualization tools. The data includes key stock market metrics, which are analyzed and visualized using **Power BI**.
+This project focuses on analyzing the performance of the **NIFTY 50** index over the past 5 years using data visualization tools. The data includes key stock market metrics, which are analyzed and visualized using **Power BI**.
 
 #### Steps Involved:
 
 1. **Data Collection**:  
-   I created an **Excel sheet** with 10 years of historical data for the NIFTY 50 index. The dataset includes the following columns:
+   I created an **Excel sheet** with 5 years of historical data for the NIFTY 50 index. The dataset includes the following columns:
    - **Date**: The specific trading date.
    - **Open**: The stock index value at the start of the trading day.
    - **High**: The highest value reached during the day.
@@ -26,4 +24,7 @@ This project focuses on analyzing the performance of the **NIFTY 50** index over
 
 # Conclusion:
 This project provides a comprehensive visual analysis of the NIFTY 50 index, helping to better understand its historical performance and fluctuations over time.
+
+
+![POWER BI 2](https://github.com/user-attachments/assets/f6a2d725-a90a-4dfc-a3dc-364bc07071fb)
 
